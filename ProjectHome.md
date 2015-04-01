@@ -1,0 +1,1 @@
+like easy explorer plugin
